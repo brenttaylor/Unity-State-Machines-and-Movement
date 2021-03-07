@@ -69,3 +69,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Bolt specific files
+/[Aa]ssets/[Ll]udiq/[Bb]olt.[Ff]low/[Gg]enerated/[Uu]nit[Oo]ptions.db
